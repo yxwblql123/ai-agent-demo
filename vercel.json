@@ -1,0 +1,8 @@
+{
+  "name": "ai-agent-demo",
+  "version": 2,
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "devCommand": null,
+  "installCommand": null
+}
